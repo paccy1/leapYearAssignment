@@ -5,5 +5,6 @@ function leapyear(year){
     console .log( leapyear);
  return leapyear;
 }
+// input usage:
 var result = leapyear(2024);
 console.log(result);
